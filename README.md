@@ -107,13 +107,12 @@ Cascet Supermarket is a local community supermarket based at 92 Letaba Street, B
 ## Deployment
 Live site: [https://nenzron.github.io/PART-1/]
 
-MDN Web Docs (2024) IntersectionObserver. Mozilla. Available at: https://developer.mozilla.org/en-US/docs/Web/API/IntersectionObserver (Accessed: 19 June 2026).
+#Reference
 
-Leaflet (2024) Leaflet — a JavaScript library for interactive maps. Available at: https://leafletjs.com (Accessed: 19 June 2026).
+•  MDN Web Docs (2024) IntersectionObserver. Mozilla. Available at: <https://developer.mozilla.org/en-US/docs/Web/API/IntersectionObserver> (Accessed: 19 June 2026).
+•  Leaflet (2024) Leaflet — a JavaScript library for interactive maps. Available at: <https://leafletjs.com> (Accessed: 19 June 2026).
+•  MDN Web Docs (2024) Window: location property. Mozilla. Available at: <https://developer.mozilla.org/en-US/docs/Web/API/Window/location> (Accessed: 19 June 2026).
+•  OpenStreetMap (2024) OpenStreetMap tile server. Available at: <https://www.openstreetmap.org> (Accessed: 19 June 2026).
+•  MDN Web Docs (2024) Element: insertAdjacentElement() method. Mozilla. Available at: <https://developer.mozilla.org/en-US/docs/Web/API/Element/insertAdjacentElement> (Accessed: 19 June 2026).
 
-MDN Web Docs (2024) Window: location property. Mozilla. Available at: https://developer.mozilla.org/en-US/docs/Web/API/Window/location (Accessed: 19 June 2026).
-
-OpenStreetMap (2024) OpenStreetMap tile server. Available at: https://www.openstreetmap.org (Accessed: 19 June 2026).
-
-MDN Web Docs (2024) Element: insertAdjacentElement() method. Mozilla. Available at: https://developer.mozilla.org/en-US/docs/Web/API/Element/insertAdjacentElement (Accessed: 19 June 2026).
 
