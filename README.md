@@ -68,3 +68,52 @@ Code with Yousaf (2025) *CSS pseudo-classes tutorial: hover, focus,
 active, first-child and nth-child explained* [Online video]. YouTube. 
 Available at: https://www.youtube.com/watch?v=Bi6PN4fICb4 
 (Accessed: 29 May 2025).
+
+# Cascet Supermarket Website
+## WEDE5020 — Part 3
+**Student:** Ronewa Vhutali Nenzhelele  
+**Student Number:** ST10510734  
+**Group:** 1
+
+## About the Website
+Cascet Supermarket is a local community supermarket based at 92 Letaba Street, Brackendowns, Alberton, founded in 2009 by Mr Masud Alham.
+
+## Pages
+- Homepage.html — Landing page with category tiles
+- Product.html — Full product catalogue with live search
+- About_us.html — Store history and values
+- Contact.html — Contact details, map, and contact form
+- Delievery.html — Delivery order form
+- Enquiry.html — Product enquiry form
+
+## JavaScript Features Added (Part 2)
+- Page fade-in and scroll-reveal animations
+- Mobile hamburger menu
+- Image lightbox gallery on all pages
+- Live product search and filter (Product page)
+- Interactive Leaflet map (Contact page)
+- Operating hours accordion (Contact page)
+- Delivery form validation with success modal
+- Contact form with mailto email send
+- Enquiry form with dynamic price/availability response
+- Back-to-top button
+
+## SEO
+- Descriptive title tags on all pages
+- Meta description and keywords on all pages
+- Alt text on all images
+- robots.txt and sitemap.xml included
+
+## Deployment
+Live site: [your-link-here]
+
+MDN Web Docs (2024) IntersectionObserver. Mozilla. Available at: https://developer.mozilla.org/en-US/docs/Web/API/IntersectionObserver (Accessed: 19 June 2026).
+
+Leaflet (2024) Leaflet — a JavaScript library for interactive maps. Available at: https://leafletjs.com (Accessed: 19 June 2026).
+
+MDN Web Docs (2024) Window: location property. Mozilla. Available at: https://developer.mozilla.org/en-US/docs/Web/API/Window/location (Accessed: 19 June 2026).
+
+OpenStreetMap (2024) OpenStreetMap tile server. Available at: https://www.openstreetmap.org (Accessed: 19 June 2026).
+
+MDN Web Docs (2024) Element: insertAdjacentElement() method. Mozilla. Available at: https://developer.mozilla.org/en-US/docs/Web/API/Element/insertAdjacentElement (Accessed: 19 June 2026).
+
