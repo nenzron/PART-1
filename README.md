@@ -105,7 +105,7 @@ Cascet Supermarket is a local community supermarket based at 92 Letaba Street, B
 - robots.txt and sitemap.xml included
 
 ## Deployment
-Live site: [your-link-here]
+Live site: [https://nenzron.github.io/PART-1/]
 
 MDN Web Docs (2024) IntersectionObserver. Mozilla. Available at: https://developer.mozilla.org/en-US/docs/Web/API/IntersectionObserver (Accessed: 19 June 2026).
 
